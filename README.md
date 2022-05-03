@@ -1,0 +1,2 @@
+# TDM
+Time division mutipluxer 
